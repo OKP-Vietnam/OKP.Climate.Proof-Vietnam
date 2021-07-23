@@ -1,9 +1,22 @@
+  </head>
+
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Exploratory computing with Python</h1>
+        <h2>Mark Bakker</h2>
+        <h2>Delft University of Technology</h2>
+        <h2></h2>
+      </div>
+    </header>
+
 # Hướng dẫn sử dụng Python
 <p> 
 Một sản phẩm của dự án OKP Climate Proof Vietnam, được dịch từ sản phẩm &mdash;
-<a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python </a>
+<a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python</a>
  &mdash; của Mark Bakker, Đại học Công nghệ Delft (TU Delft), Vương Quốc Hà Lan.
 
+<body>
 <p>Lots of books are written on scientific computing, but very few deal with the much more common <em>exploratory computing</em> 
 (a term coined by Fernando Perez), which represents daily tasks of many scientists and engineers that try to solve problems
 but are not computer scientists.
@@ -103,3 +116,4 @@ Test Notebooks 1-4 &mdash;
 <a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1-4_test/notebook1-4_test.ipynb">Test Notebook 1-4</a>
 </p>
 
+</body>
