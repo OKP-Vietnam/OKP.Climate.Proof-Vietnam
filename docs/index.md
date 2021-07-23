@@ -1,83 +1,79 @@
-##Python for Exploratory Computing
+  <body>
+    <header>
+      <div class="inner">
+        <h1>Hướng dẫn sử dụng Python</h1>
+        <h2>Một sản phẩm của dự án OKP Climate Proof Vietnam</h2>
+        <h2>Được dịch từ dự án &mdash; <a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python</a> &mdash; của Mark Bakker, Đại học Công nghệ Delft (TU Delft), Vương Quốc Hà Lan.</h2>
+        <h2></h2>
+      </div>
+    </header>
 
-Lots of books are written on scientific computing, but very few deal with the much more common *exploratory computing* 
-(a term coined by Fernando Perez), which represents daily tasks of many scientists and engineers that try to solve problems
-but are not computer scientists.
-This set of  Notebooks is written for scientists and engineers who want to use Python programming
-for exploratory computing, scipting, data analysis, and visualization. 
-Python makes
-many of these programmig tasks quick and easy and, probably most importantly, fun.
+<body>
+<p>Giới thiệu dự án OKP Climate Proof Vietnam..!</p>
 
-No prior knowledge of computer programming is assumed. 
-Each Notebook covers a specific topic and includes a number of exercises. 
-The exercises should take less than 4 hours to complete for each Notebook.
-Download the Notebooks and accompanying data files from the github repositories. These Notebooks contain empty output cells. Running the output
-cells is part of learning Python. Notebooks with output cells cells have the addition `_sol` and can be 
-viewed by clicking on the links to the Notebook Viewer below.
+<p>Giới thiệu mục đích của việc dịch Python..!</p>
 
-The following Notebooks are available (they are under development; more will follow soon): 
+<p>Notebooks có thể chay sau khi bạn đã cài Python và các gói hỗ trợ khác.
+Cách tốt nhất là tải <a href="https://www.anaconda.com/products/individual">Anaconda</a> (Mac, Windows, Linux) và sử dụng.
+Tất cả các Notebooks trên website này đều được viết bằng Anaconda. Sau khi cài xong Anaconda, bạn có thể sử dụng Jupyter Notebook để chạy các Notebooks trên trình duyệt của bạn.
+</p>
 
-###Python Basics
+<h2>Notebooks và các video hướng dẫn</h2>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_1_sol.ipynb">Notebook 1</a>: 
-Basics and Plotting
-(version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1/py_exploratory_comp_1.ipynb">here</a>)
+<p> 
+1. Các khái niệm cơ bản và Biểu đồ  
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_2_sol.ipynb">Notebook 2</a>: 
-Arrays and basic If statements
-(version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2/py_exploratory_comp_2.ipynb">here</a>)
+<p>2. Mảng  
+</p>
 
+<p>3. Vòng lặp và mệnh đề điều kiện  
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3_sol.ipynb">Notebook 3</a>: 
-Loops and If/Else statements
-(version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3/py_exploratory_comp_3.ipynb">here</a>)
+<p>4. Hàm &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_4_sol_vn.ipynb">Notebook 4</a> 
+&mdash;  <a href="https://youtu.be/ZqjYNtWanMM">Video</a>
+</p>
 
+<p>5. Tìm 0 điểm của hàm &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_5_sol_vn.ipynb">Notebook 5</a> 
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4_sol.ipynb">Notebook 4</a>: 
-Functions
-(version with empty output cells is 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4/py_exploratory_comp_4.ipynb">here</a>)
+<p>6. Hệ thống các phương trình tuyến tính &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_6_sol_vn.ipynb">Notebook 6</a> 
+</p>
 
+<p>7. Xử lý lỗi &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_7_sol_vn.ipynb">Notebook 7</a> 
+</p>
 
-###Applications to Water Management
+<p>8. Pandas và chuỗi dữ liệu theo thời gian &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_8_sol_vn.ipynb">Notebook 8</a>
+&mdash;  <a href="https://youtu.be/MTdIY6uFY6M">Video</a>
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm1/py_exp_comp_wm1_sol.ipynb">Notebook WM1</a>: 
-Time Series Data and Pandas
+<p>9. Các biến ngẫu nhiên rời rạc &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_9_sol_vn.ipynb">Notebook 9</a> 
+&mdash;  <a href="https://youtu.be/iKBHWz-MHR8">Video</a>
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm2/py_exp_comp_wm2_sol.ipynb">Notebook WM2</a>: 
-Manning's Equation and Emptying Reservoir
+<p>10. Các biến ngẫu nhiên liên tục &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_10_sol_vn.ipynb">Notebook 10</a> 
+&mdash;  <a href="https://youtu.be/ThpusgXnMGI">Video</a>
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_wm3/py_exp_comp_wm3_sol.ipynb">Notebook WM3</a>: 
-Water Distribution Systems
+<p>11. Phân phối giá trị trung bình, kiểm định giả thuyết và định lý giới hạn trung tâm &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_11_sol_vn.ipynb">Notebook 11</a> 
+&mdash;  <a href="http://youtu.be/OaD_bN3eg8o">Video (Python 2)</a>
+</p>
 
-###Applications to Probability and Statistics
+<p>12. Lập trình hướng đối tượng &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_12_sol_vn.ipynb">Notebook 12</a>
+&mdash;  <a href="https://youtu.be/pNLAEDbK03s">Video (Python 2)</a>
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s1/py_exp_comp_s1_sol.ipynb">Notebook S1</a>: 
-Discrete Random Variables
+<p>13. Phân tích hồi quy &mdash;
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_13_sol_vn.ipynb">Notebook 13</a>
+</p>
 
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s2/py_exp_comp_s2_sol.ipynb">Notebook S2</a>: 
-Continuous Random Variables
-
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s3/py_exp_comp_s3_sol.ipynb">Notebook S3</a>: 
-Distribution of the Mean, Hypothesis Tests, and the Central Limit Theorem
-
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s4/py_exp_comp_s4_sol.ipynb">Notebook S4</a>: 
-Linear regression and curve fitting
-
-###Some More Advanced Python Topics
-
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv1/py_exp_comp_adv1_sol.ipynb">Notebook ADV1</a>: 
-Finding the Zero of a Function
-
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv2/py_exp_comp_adv2_sol.ipynb">Notebook ADV2</a>: 
-Systems of linear equations
-
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv3/py_exp_comp_adv3_sol.ipynb">Notebook ADV3</a>: 
-Object oriented programming
-
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_adv4/py_exp_comp_adv4_sol.ipynb">Notebook ADV4
-</a>: 
-Interactive Graphics with Matplotlib Widgets
+</body>
