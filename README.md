@@ -1,6 +1,8 @@
 # Hướng dẫn sử dụng Python
-# Một sản phẩm của dự án OKP Climate Proof Vietnam, được dịch từ sản phẩm Exploratory computing with Python của Mark Bakker
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3_for_and_if/py_exploratory_comp_3_sol.ipynb">
+<p> 
+Một sản phẩm của dự án OKP Climate Proof Vietnam, được dịch từ sản phẩm &mdash;
+<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1_basics_plotting/py_exploratory_comp_1_sol.ipynb">Exploratory computing with Python </a>
+ &mdash; của Mark Bakker
 
 <html>
 
