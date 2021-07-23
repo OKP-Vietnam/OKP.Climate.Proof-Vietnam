@@ -21,58 +21,58 @@ Tất cả các Notebooks trên website này đều được viết bằng Anaco
 <h2>Notebooks và video hướng dẫn bằng Tiếng Anh</h2>
 
 <p> 
-Basics and Plotting  
+Các khái niệm cơ bản và Biểu đồ  
 </p>
 
-<p>Arrays  
+<p>Mảng  
 </p>
 
-<p>For loops and If/Else statements  
+<p>Vòng lặp và mệnh đề điều kiện  
 </p>
 
-<p>Functions &mdash;
+<p>Hàm &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_4_sol_vn.ipynb">Notebook 4</a> 
 &mdash;  <a href="https://youtu.be/ZqjYNtWanMM">Video</a>
 </p>
 
-<p>Finding the Zeros of a Function &mdash;
+<p>Tìm 0 điểm của hàm &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_5_sol_vn.ipynb">Notebook 5</a> 
 </p>
 
-<p>Systems of linear equations &mdash;
+<p>Hệ thống các phương trình tuyến tính &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_6_sol_vn.ipynb">Notebook 6</a> 
 </p>
 
-<p>Bugs &mdash;
+<p>Lỗi &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_7_sol_vn.ipynb">Notebook 7</a> 
 </p>
 
-<p>Pandas and Time Series &mdash;
+<p>Pandas và chuỗi dữ liệu theo thời gian &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_8_sol_vn.ipynb">Notebook 8</a>
 &mdash;  <a href="https://youtu.be/MTdIY6uFY6M">Video</a>
 </p>
 
-<p>Discrete Random Variables &mdash;
+<p>Các biến ngẫu nhiên rời rạc &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_9_sol_vn.ipynb">Notebook 9</a> 
 &mdash;  <a href="https://youtu.be/iKBHWz-MHR8">Video</a>
 </p>
 
-<p>Continuous Random Variables &mdash;
+<p>Các biến ngẫu nhiên liên tục &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_10_sol_vn.ipynb">Notebook 10</a> 
 &mdash;  <a href="https://youtu.be/ThpusgXnMGI">Video</a>
 </p>
 
-<p>Distribution of the Mean and Hypothesis Tests Theorem &mdash;
+<p>Phân phối giá trị trung bình, kiểm định giả thuyết và định lý giới hạn trung tâm &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_11_sol_vn.ipynb">Notebook 11</a> 
 &mdash;  <a href="http://youtu.be/OaD_bN3eg8o">Video (Python 2)</a>
 </p>
 
-<p>Object oriented programming &mdash;
+<p>Lập trình hướng đối tượng &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_12_sol_vn.ipynb">Notebook 12</a>
 &mdash;  <a href="https://youtu.be/pNLAEDbK03s">Video (Python 2)</a>
 </p>
 
-<p>Regression I &mdash;
+<p>Phân tích hồi quy &mdash;
 <a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_13_sol_vn.ipynb">Notebook 13</a>
 </p>
 
