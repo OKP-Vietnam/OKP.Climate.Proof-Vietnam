@@ -1,21 +1,9 @@
-<head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-
-    <title>Exploratory computing with Python by Mark Bakker</title>
-</head>
-
   <body>
     <header>
       <div class="inner">
-        <h1>Exploratory computing with Python</h1>
-        <h2>Mark Bakker</h2>
-        <h2>Delft University of Technology</h2>
+        <h1>Hướng dẫn sử dụng Python</h1>
+        <h2>Một sản phẩm của dự án OKP Climate Proof Vietnam</h2>
+        <h2>Được dịch từ dự án &mdash; <a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python</a> &mdash;của Mark Bakker, Đại học Công nghệ Delft (TU Delft), Vương Quốc Hà Lan.</h2>
         <h2></h2>
       </div>
     </header>
