@@ -3,16 +3,10 @@
       <div class="inner">
         <h1>Hướng dẫn sử dụng Python</h1>
         <h2>Một sản phẩm của dự án OKP Climate Proof Vietnam</h2>
-        <h2>Được dịch từ dự án &mdash; <a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python</a> &mdash;của Mark Bakker, Đại học Công nghệ Delft (TU Delft), Vương Quốc Hà Lan.</h2>
+        <h2>Được dịch từ dự án &mdash; <a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python</a> &mdash; của Mark Bakker, Đại học Công nghệ Delft (TU Delft), Vương Quốc Hà Lan.</h2>
         <h2></h2>
       </div>
     </header>
-
-# Hướng dẫn sử dụng Python
-<p> 
-Một sản phẩm của dự án OKP Climate Proof Vietnam, được dịch từ sản phẩm &mdash;
-<a href="https://mbakker7.github.io/exploratory_computing_with_python/">Exploratory computing with Python</a>
- &mdash; của Mark Bakker, Đại học Công nghệ Delft (TU Delft), Vương Quốc Hà Lan.
 
 <body>
 <p>Lots of books are written on scientific computing, but very few deal with the much more common <em>exploratory computing</em> 
