@@ -1,4 +1,5 @@
-# Hướng dẫn sử dụng Python, một sản phẩm của dự án OKP Climate Proof Vietnam 
+# Hướng dẫn sử dụng Python
+Một sản phẩm của dự án OKP Climate Proof Vietnam 
 <html>
   <head>
     <title>Dựa theo dự án Exploratory computing with Python của Mark Bakker</title>
