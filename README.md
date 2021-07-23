@@ -40,45 +40,40 @@ Basics and Plotting
 </p>
 
 <p>Systems of linear equations &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook6_linear_systems/py_exploratory_comp_6_sol.ipynb">Notebook 6</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_6_sol_vn.ipynb">Notebook 6</a> 
 </p>
 
 <p>Bugs &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook7_bugs/py_exploratory_comp_7_sol.ipynb">Notebook 7</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_7_sol_vn.ipynb">Notebook 7</a> 
 </p>
 
 <p>Pandas and Time Series &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook8_pandas/py_exploratory_comp_8_sol.ipynb">Notebook 8</a>
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_8_sol_vn.ipynb">Notebook 8</a>
 &mdash;  <a href="https://youtu.be/MTdIY6uFY6M">Video</a>
 </p>
 
 <p>Discrete Random Variables &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook9_discrete_random_variables/py_exploratory_comp_9_sol.ipynb">Notebook 9</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_9_sol_vn.ipynb">Notebook 9</a> 
 &mdash;  <a href="https://youtu.be/iKBHWz-MHR8">Video</a>
 </p>
 
 <p>Continuous Random Variables &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook10_continuous_random_variables/py_exploratory_comp_10_sol.ipynb">Notebook 10</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_10_sol_vn.ipynb">Notebook 10</a> 
 &mdash;  <a href="https://youtu.be/ThpusgXnMGI">Video</a>
 </p>
 
 <p>Distribution of the Mean and Hypothesis Tests Theorem &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook11_hypothesis_test/py_exploratory_comp_11_sol.ipynb">Notebook 11</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_11_sol_vn.ipynb">Notebook 11</a> 
 &mdash;  <a href="http://youtu.be/OaD_bN3eg8o">Video (Python 2)</a>
 </p>
 
 <p>Object oriented programming &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook12_oop/py_exploratory_comp_12_sol.ipynb">Notebook 12</a>
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_12_sol_vn.ipynb">Notebook 12</a>
 &mdash;  <a href="https://youtu.be/pNLAEDbK03s">Video (Python 2)</a>
 </p>
 
 <p>Regression I &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook13_regression1/py_exploratory_comp_13_sol.ipynb">Notebook 13</a>
-</p>
-
-<p> 
-Test Notebooks 1-4 &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1-4_test/notebook1-4_test.ipynb">Test Notebook 1-4</a>
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_13_sol_vn.ipynb">Notebook 13</a>
 </p>
 
 </body>
