@@ -9,61 +9,34 @@
     </header>
 
 <body>
-<p>Lots of books are written on scientific computing, but very few deal with the much more common <em>exploratory computing</em> 
-(a term coined by Fernando Perez), which represents daily tasks of many scientists and engineers that try to solve problems
-but are not computer scientists.
-This set of  Notebooks is written for scientists and engineers who want to use Python programming
-for exploratory computing, scripting, data analysis, and visualization. 
-Python makes
-many of these programming tasks quick, easy, and, probably most importantly, fun.</p>
+<p>Giới thiệu dự án OKP Climate Proof Vietnam..!</p>
 
-<p>No prior knowledge of computer programming is assumed. 
-Each Notebook covers a specific topic and includes a number of exercises. 
-The exercises should take less than 4 hours to complete for each Notebook.
-Answers to the exercises are given at the end of the Notebook.
-There are two versions of each Notebook: one with and one without output cells. The Notebooks without the output cells
-are intended for people wanting to learn Python. Running the output
-cells is part of the learning process. All Notebooks and accompanying data files may be downloaded
-by clicking on the 'Download .zip file' button to the right.
-Notebooks with output cells cells have the addition _sol and can be 
-viewed by clicking on the links below.</p>
+<p>Giới thiệu mục đích của việc dịch Python..!</p>
 
-<p>
-Notebooks can be run after you install Python and the appropriate packages.
-The easiest way to do this is to install an installer that includes Python and a set of the most popular packages.
-The most popular distribution is
-<a href="https://www.anaconda.com/products/individual">Anaconda</a> (Mac, Windows, Linux).
-All the Notebooks on this webiste were developed with Anaconda. After installing Anaconda, start the Navigator and then launch the Jupyter Notebook, which will open
-the Jupyter Notebook dashboard in your webbrowser (starting in your Documents folder on Windows and your home directory on a Mac).
-Use the dashboard to surf to the directory where you stored your Notebooks (you can only surf to lower directories not higher directories) and click on
-the one you want to open.
+<p>Notebooks có thể chay sau khi bạn đã cài Python và các gói hỗ trợ khác.
+Cách tốt nhất là tải <a href="https://www.anaconda.com/products/individual">Anaconda</a> (Mac, Windows, Linux) và sử dụng.
+Tất cả các Notebooks trên website này đều được viết bằng Anaconda. Sau khi cài xong Anaconda, bạn có thể sử dụng Jupyter Notebook để chạy các Notebooks trên trình duyệt của bạn.
 </p>
 
-<h2>Notebooks and accompanying videos</h2>
+<h2>Notebooks và video hướng dẫn bằng Tiếng Anh</h2>
 
 <p> 
-Basics and Plotting &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook1_basics_plotting/py_exploratory_comp_1_sol.ipynb">Notebook 1</a>
- &mdash; <a href="https://youtu.be/fnl6N_F7TvI">Video</a> 
+Basics and Plotting  
 </p>
 
-<p>Arrays &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook2_arrays/py_exploratory_comp_2_sol.ipynb">Notebook 2</a> 
-&mdash; <a href="https://youtu.be/5RkeHZnZEnM">Video</a> 
+<p>Arrays  
 </p>
 
-<p>For loops and If/Else statements &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook3_for_and_if/py_exploratory_comp_3_sol.ipynb">Notebook 3</a> 
-&mdash; <a href="https://youtu.be/19gM-QEVugc">Video</a> 
+<p>For loops and If/Else statements  
 </p>
 
 <p>Functions &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook4_functions/py_exploratory_comp_4_sol.ipynb">Notebook 4</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_4_sol_vn.ipynb">Notebook 4</a> 
 &mdash;  <a href="https://youtu.be/ZqjYNtWanMM">Video</a>
 </p>
 
 <p>Finding the Zeros of a Function &mdash;
-<a href="http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook5_rootfinding/py_exploratory_comp_5_sol.ipynb">Notebook 5</a> 
+<a href="https://nbviewer.jupyter.org/github/OKP-Vietnam/OKP.Vietnam-Python/blob/OKP-Vietnam-master/py_exploratory_comp_5_sol_vn.ipynb">Notebook 5</a> 
 </p>
 
 <p>Systems of linear equations &mdash;
