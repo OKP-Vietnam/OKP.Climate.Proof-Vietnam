@@ -1,20 +1,12 @@
 # Hướng dẫn sử dụng Python
-Một sản phẩm của dự án OKP Climate Proof Vietnam 
+# Một sản phẩm của dự án OKP Climate Proof Vietnam 
+
 <html>
   <head>
     <title>Dựa theo dự án Exploratory computing with Python của Mark Bakker</title>
   </head>
 
   <body>
-    <header>
-      <div class="inner">
-        <h1>Exploratory computing with Python</h1>
-        <h2>Mark Bakker</h2>
-        <h2>Delft University of Technology</h2>
-        <h2></h2>
-        <a href="https://github.com/mbakker7/exploratory_computing_with_python" class="button"><small>View project on</small>GitHub</a>
-      </div>
-    </header>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
