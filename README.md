@@ -18,7 +18,7 @@ Cách tốt nhất là tải <a href="https://www.anaconda.com/products/individu
 Tất cả các Notebooks trên website này đều được viết bằng Anaconda. Sau khi cài xong Anaconda, bạn có thể sử dụng Jupyter Notebook để chạy các Notebooks trên trình duyệt của bạn.
 </p>
 
-<h2>Notebooks và các video hướng dẫn bằng Tiếng Anh</h2>
+<h2>Notebooks và các video hướng dẫn</h2>
 
 <p> 
 1. Các khái niệm cơ bản và Biểu đồ  
